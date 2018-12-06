@@ -1,0 +1,146 @@
+{\rtf1\ansi\ansicpg950\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;\red118\green118\blue118;\red255\green255\blue255;\red198\green0\blue29;
+\red38\green38\blue38;\red135\green135\blue135;}
+{\*\expandedcolortbl;;\cssrgb\c53725\c53725\c53725;\cssrgb\c100000\c100000\c100000;\cssrgb\c82745\c0\c14902;
+\cssrgb\c20000\c20000\c20000;\cssrgb\c60000\c60000\c60000;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
+As a restaurant owner, great customer service is essential to your success. How do you deliver excellent customer service at your restaurant? First, let\'92s define it:
+\i  customer service is the assistance and advice you provide to your diners.
+\i0 \cb1 \
+\cb3 Customer service is equal parts communication and genuine attention to your diners. {\field{\*\fldinst{HYPERLINK "http://ctt.ec/7inpa"}}{\fldrslt \cf4 (tweet this)}} When guests visit your restaurant, you want them to feel welcome. When you treat them with care and respect while providing an excellent meal, they\'92ll come back to your restaurant again and again.\cb1 \
+\cb3 Satisfied customers are integral to your business model. According to a {\field{\*\fldinst{HYPERLINK "http://www.customerservicemanager.com/the-power-of-highly-satisfied-customers.htm"}}{\fldrslt \cf4 Harvard Business School study}} on Starbucks, customer satisfaction has a massive impact on your revenue. Regarding Starbucks, they found that the 
+\i satisfied
+\i0  
+\i customer
+\i0  visits 4.3 times per month, spends $4.06 and is a customer for 4.4 years. They went on to find that the 
+\i highly satisfied
+\i0  customer visits 7.2 times per month, spends $4.42 and is a customer for 8.3 years.\cb1 \
+\cb3 That\'92s great, but what happens when you have a dissatisfied customer? In a\'a0{\field{\*\fldinst{HYPERLINK "http://www.slideshare.net/RightNow/2010-customer-experience-impact"}}{\fldrslt \cf4 Customer Experience Report}}, researchers found that the #1 reason customers abandon a brand is due to\'a0poor quality and rude customer service. These items were cited 18% more often than slow or untimely service.\cb1 \
+\cb3 Combined, these two studies describe the importance of excellent customer service. They suggest that great customer service can make or break your restaurant. So, in this blog post, we\'92re going to discuss five ways to deliver excellent customer service at your restaurant.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs63 \cf5 \cb3 1. Do It Right From the Start\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf2 \cb3 While food quality is incredibly important, it is the experience diners have from the minute they walk in the door to the minute they exit that counts. Restaurants should remember to keep the customer\'92s needs at the forefront of every dining experience. Here are a few tips for accomplishing this:\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\b \cf5 \cb3 Speak Appropriately
+\b0 \cf2 \cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Greet your diners the minute they walk in the door.\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Use respectful titles \'96 sir, ma\'92am and miss work well.\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Don\'92t interrupt.\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Listen intently and pay attention to what they want.\cb1 \
+\ls1\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Be thoroughly versed on your menu. Ask questions and repeat their orders to make sure you get it right.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\b \cf5 \cb3 Etiquette Matters
+\b0 \cf2 \cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 While the etiquette often depends on the restaurant type, proper etiquette may be maintained in pizza parlors as well as fine-dining restaurants.\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Who do you serve first? If there\'92s a guest of honor, serve them. If not, begin with the women, then men, then children.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Serve and clear food from the diner\'92s left. If you have to reach in or interrupt, be polite.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Serve, pour and refill drinks from the right.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+When serving food, have a system so you know which plates go to which diner. Don\'92t call out entr\'e9es if possible.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Never make diners feel like you want them to leave. The server\'92s tip is not more important than the diners\'92 comfort.\cb1 \
+\ls2\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Don\'92t make your diners ask for the check. Clear plates, bring the check and process it in a timely manner.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs63 \cf5 \cb3 2. Don\'92t Make Them Wait\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf2 \cb3 If your diners have to wait too long for their first round of drinks, appetizer or meal, it really won\'92t matter to them that your bartender makes the best martini or the chef prepared the best steak. Your diner is already irritated and hungry.\cb1 \
+\cb3 You can call this the negative turning point. Remember that it can be hard to win back your disappointed customer. Avoid disappointing them at all costs. Make sure you have enough staff on hand so they never have to wait too long. If your diner orders a meal that takes a bit longer to cook, let them know in advance. Be forthcoming and informative.\cb1 \
+\cb3 You\'92ve probably heard the term 
+\i speed of service
+\i0 . You might even have a speed of service goal built into your policies. Speed of service is vital to a good dining experience no matter your restaurant type. Your diners probably have expectations about how long they\'92ll have to wait. Serving tacos? They\'92ll expect those quickly. Serving steak? They may mentally grant you extra time to prepare it.\cb1 \
+\cb3 Your goal is to accommodate your diners with exactly the same quality food and service every day and at every time of day. {\field{\*\fldinst{HYPERLINK "http://ctt.ec/CXA92"}}{\fldrslt \cf4 (tweet this)}}\cb1 \
+\
+\pard\pardeftab720\partightenfactor0
+
+\i \cf6 \cb3 A happy customer is one whose problem was solved quickly and satisfactorily.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\i0\fs63 \cf5 \cb3 3. Fix Problems Immediately\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf2 \cb3 Your third step in delivering excellent customer service is your finesse at dealing with {\field{\*\fldinst{HYPERLINK "http://restaurantengine.com/handle-customer-disputes/"}}{\fldrslt \cf4 customer problems}} and complaints. No matter how hard you try, something is going to go amiss some time or another. Whatever the problem, your goal is to please the customer.\cb1 \
+\cb3 It is vitally important that you deal with problems immediately. Don\'92t let your customer\'92s anger linger while waiting to work his way up the management chain. Here are a few tips for dealing with customer problems:\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls3\ilvl0\cf2 \cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Listen intently to their problem without interrupting.\cb1 \
+\ls3\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Own the mistake. Acknowledge that, yes, there is a problem. Let them know you are very sorry.\cb1 \
+\ls3\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Stay calm, especially if you don\'92t agree with your customer.\cb1 \
+\ls3\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Maintain eye contact and watch your body language. Make sure your body isn\'92t telling a different story than your words.\cb1 \
+\ls3\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Ask your customer what they\'92d like. Try to negotiate a solution that is acceptable to both of you.\cb1 \
+\ls3\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Always empathize, don\'92t blame.\cb1 \
+\ls3\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Apologize again!\cb1 \
+\ls3\ilvl0\cb3 \kerning1\expnd0\expndtw0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+Solve the problem quickly and without drama.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs63 \cf5 \cb3 4. Use Customer Comment Cards\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf2 \cb3 Show your diners you value their opinion. Exceptionally effective restaurants want their customer\'92s opinions \'96 the good, the bad and the in-between.\cb1 \
+\cb3 When you give them the opportunity to leave a comment, you show them that you care and are always looking for ways to improve your food and your service. Your customer\'92s comments can help you learn about areas that need improvement. The comments can also show you where you are excelling. You\'92ll see what your customers see and in the end be able to provide them even better service.\cb1 \
+\cb3 You\'92ll build better customer relationships and enhance your restaurant at the same time.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs63 \cf5 \cb3 5. Incorporate Technology\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\fs32 \cf2 \cb3 Lastly, we\'92ll discuss an out-of-the-box way to deliver excellent customer service at your restaurant. Incorporating technology will, of course, depend on your restaurant type, but some form of technology can be worked into many restaurant business models.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\b \cf5 \cb3 Online Ordering
+\b0 \cf2 \cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 The ability to instantly order from your online menu provides easy access for your customers. It allows them to conveniently browse and then order from your menu. Oftentimes they\'92ll spend more money ordering online as they\'92ll be tempted to try more. You can use prominent calls to action to encourage a larger order.\cb1 \
+\cb3 Don\'92t forget the mobile-friendly responsive {\field{\*\fldinst{HYPERLINK "http://restaurantengine.com/studies-mobile-friendly-websites-restaurants/"}}{\fldrslt \cf4 website.}} If your customer can\'92t order online with ease on their mobile phone, it\'92s time for a new website.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\b \cf5 \cb3 Table and/or Kiosk Ordering
+\b0 \cf2 \cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Your casual dining customers will find this ordering system quick and easy. They\'92ll also appreciate the convenience and the speed.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\b \cf5 \cb3 Offer Free Wi-Fi
+\b0 \cf2 \cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 According to {\field{\*\fldinst{HYPERLINK "http://nrn.com/technology/customer-wi-fi-win-restaurants"}}{\fldrslt \cf4 research}} from industry data and analysis firm Technomic Inc., 65% of consumers in 2014 expected restaurants in the quick-service segment to offer free access to Wi-Fi in their restaurants.\cb1 \
+\pard\pardeftab720\partightenfactor0
+
+\b \cf5 \cb3 Games at the Table
+\b0 \cf2 \cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 Parents of young children are often exhausted after a long day at work. Give the parents a break while occupying their children. Consider handheld gaming devices at the table, a TV/media room for kids (and the old stand-by \'96 coloring books).}
